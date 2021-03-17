@@ -8,7 +8,7 @@ setup(
     description = 'Test',
     author = 'Ahmet Yıldırır',
     author_email = 'ahmetyildirir1@gmail.com',
-    url = 'githubURL',
+    url = 'https://github.com/Ahmetyldrr/mypackage_test',
     keywords = ['TAG1', 'TAG2'],
     classifiers = [],
 )
